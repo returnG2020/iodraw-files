@@ -16,7 +16,7 @@
         <mxCell id="9DvprbZsvJghGEfGc9dL-5" value="主控—骨架固定" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9DvprbZsvJghGEfGc9dL-6" value="伸缩臂" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="9DvprbZsvJghGEfGc9dL-6" value="伸缩臂驱动装置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-10" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-7" value="远场涡流REFC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-9" value="主控驱动编写" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="490" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="9DvprbZsvJghGEfGc9dL-10" value="电机" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-10" y="270" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
