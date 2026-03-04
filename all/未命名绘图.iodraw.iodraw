@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -11,43 +11,43 @@
           <mxGeometry x="60" y="230" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-4" value="lora无线通信脱机收发数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="120" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-5" value="主控集成固定装置设计+制作" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="700" y="610" width="120" height="40" as="geometry" />
+          <mxGeometry x="180" y="750" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-6" value="伸缩臂驱动装置" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1150" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="630" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9DvprbZsvJghGEfGc9dL-7" target="9DvprbZsvJghGEfGc9dL-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-7" value="远场涡流REFC装置设计+制作" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="-80" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-9" value="主控驱动编写" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1170" y="370" width="120" height="40" as="geometry" />
+          <mxGeometry x="650" y="510" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9DvprbZsvJghGEfGc9dL-11" target="9DvprbZsvJghGEfGc9dL-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-11" value="交流信号实验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="-90" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-13" value="lora主从机功能执行" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="170" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-14" value="上位机辨析信号输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="-90" y="630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9DvprbZsvJghGEfGc9dL-15" target="9DvprbZsvJghGEfGc9dL-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-15" value="滤波/信噪比改进" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="390" width="120" height="40" as="geometry" />
+          <mxGeometry x="-90" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-16" value="闭环防过载传感（可选）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1160" y="490" width="120" height="40" as="geometry" />
+          <mxGeometry x="640" y="630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9DvprbZsvJghGEfGc9dL-17" target="9DvprbZsvJghGEfGc9dL-19">
           <mxGeometry relative="1" as="geometry" />
@@ -56,27 +56,27 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-17" value="集能装置选型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="840" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-19" value="集能装置额定实验" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1020" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="500" y="450" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-20" value="电源模块选型+集成" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="700" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9DvprbZsvJghGEfGc9dL-21" target="9DvprbZsvJghGEfGc9dL-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-21" value="集能装置嵌入设计+制作" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9DvprbZsvJghGEfGc9dL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9DvprbZsvJghGEfGc9dL-15" target="9DvprbZsvJghGEfGc9dL-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="450" />
-              <mxPoint x="580" y="450" />
-              <mxPoint x="580" y="370" />
-              <mxPoint x="520" y="370" />
+              <mxPoint y="590" />
+              <mxPoint x="60" y="590" />
+              <mxPoint x="60" y="510" />
+              <mxPoint y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
