@@ -40,6 +40,9 @@
         <mxCell id="9DvprbZsvJghGEfGc9dL-16" value="闭环防过载传感（可选）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-190" y="420" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="9DvprbZsvJghGEfGc9dL-17" value="lora无线通信脱机收发数据" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
