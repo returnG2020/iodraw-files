@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="794PnxV0crgWATfqTVuu-1" value="接收外部信号" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="794PnxV0crgWATfqTVuu-2" value="启动TIM6定时器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="794PnxV0crgWATfqTVuu-3" value="是否收到后续字节" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="794PnxV0crgWATfqTVuu-5" value="是否超时" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
