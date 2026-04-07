@@ -77,7 +77,7 @@
           <mxGeometry x="380" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="794PnxV0crgWATfqTVuu-20" value="TIM6中断，判定帧接收完成" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="800" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
