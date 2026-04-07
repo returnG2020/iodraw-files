@@ -23,7 +23,12 @@
         </mxCell>
         <mxCell id="794PnxV0crgWATfqTVuu-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="794PnxV0crgWATfqTVuu-3">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="520" as="targetPoint" />
+            <mxPoint x="390" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="620" />
+              <mxPoint x="250" y="510" />
+              <mxPoint x="380" y="510" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="794PnxV0crgWATfqTVuu-3" value="是否收到后续字节" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
