@@ -30,11 +30,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="794PnxV0crgWATfqTVuu-13" value="重置TIM6计数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="794PnxV0crgWATfqTVuu-10">
-          <mxGeometry x="-0.675" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="794PnxV0crgWATfqTVuu-3" value="是否收到后续字节" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="590" width="120" height="60" as="geometry" />
         </mxCell>
