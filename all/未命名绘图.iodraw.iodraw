@@ -43,11 +43,13 @@
         <mxCell id="794PnxV0crgWATfqTVuu-3" value="是否收到后续字节" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="794PnxV0crgWATfqTVuu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="794PnxV0crgWATfqTVuu-5" target="794PnxV0crgWATfqTVuu-2">
+        <mxCell id="794PnxV0crgWATfqTVuu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="794PnxV0crgWATfqTVuu-5">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="490" as="targetPoint" />
             <Array as="points">
               <mxPoint x="220" y="720" />
-              <mxPoint x="220" y="470" />
+              <mxPoint x="220" y="490" />
+              <mxPoint x="440" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
