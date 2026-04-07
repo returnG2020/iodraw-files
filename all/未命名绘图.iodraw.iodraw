@@ -30,8 +30,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="794PnxV0crgWATfqTVuu-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="794PnxV0crgWATfqTVuu-10">
-          <mxGeometry x="-0.1" relative="1" as="geometry">
+        <mxCell id="794PnxV0crgWATfqTVuu-13" value="重置TIM6计数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="794PnxV0crgWATfqTVuu-10">
+          <mxGeometry x="-0.675" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
