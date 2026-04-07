@@ -53,6 +53,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="794PnxV0crgWATfqTVuu-17" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="794PnxV0crgWATfqTVuu-16">
+          <mxGeometry x="-0.823" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="794PnxV0crgWATfqTVuu-18" value="等待超时" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="794PnxV0crgWATfqTVuu-16">
+          <mxGeometry x="0.5934" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="794PnxV0crgWATfqTVuu-5" value="是否超时" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="690" width="120" height="60" as="geometry" />
         </mxCell>
